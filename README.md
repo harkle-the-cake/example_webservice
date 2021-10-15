@@ -1,2 +1,2 @@
-# example_webservice
-Just a small repo for webservice intros and ready to test/start.
+# Distributed examples
+Just a small repo for webservice introductions and examples created for the lecture "distributed systems".
